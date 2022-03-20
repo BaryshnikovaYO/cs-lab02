@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 cout << "Enter A and B: ";
-int a, b;
+double a, b;
 int max;
 int min;
 cin >> a >> b;
